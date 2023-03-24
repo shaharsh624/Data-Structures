@@ -1,0 +1,20 @@
+# 27/08/2022
+1. Search an element in array
+2. Bubble sort in array
+3. Split an array in two parts and then add them
+
+
+# 10/08/2022
+1. Split array from index(input)
+2. Find the common element in two arrays
+3. Find a key element. An element in an array is key element if all the elements right to it are less than it. Print all the key elements of an array.
+
+
+# 17/08/2022
+1. Practice pointers with arrays
+2. Practice pointers with structures
+
+
+--> Pointers
+&ptr = c  --> holds the address of variable c
+*ptr  --> gives the valus of variable c
